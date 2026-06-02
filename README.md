@@ -39,6 +39,8 @@ I am a Software Engineering student focused on building high-performance systems
 ![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=visual-studio-code&logoColor=58A6FF)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-24292e?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6F61?style=for-the-badge&logo=ai&logoColor=white)
 ![Google OR-Tools](https://img.shields.io/badge/Google_OR--Tools-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 > 💡 **AI Workflow Methodology:** Scaled development leveraging advanced Prompt Engineering alongside deterministic testing frameworks to execute **Critical Output Validation** on all LLM-generated logic.
