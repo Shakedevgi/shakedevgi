@@ -1,6 +1,6 @@
 # Hi there, I'm Shaked! 👋
 
-I am a Software Engineering student focused on building high-performance systems, robust application architectures, and agentic AI systems. My work ranges from writing low-level, memory-efficient systems in C/C++ to designing native iOS applications and deploying local, privacy-first AI agent infrastructures.
+I am a Software Engineering student focused on building high-performance systems, robust application architectures, and agentic AI systems. My work ranges from writing low-level, memory-efficient systems to cloud-based applications and intelligent automation.
 
 - 🧠 **AI & Automation:** Building local agentic workflows and semantic search pipelines.
 - 📱 **Mobile & Web:** Designing responsive, native experiences with Swift/SwiftUI and modern full-stack web frameworks.
@@ -47,11 +47,11 @@ I am a Software Engineering student focused on building high-performance systems
 
 ### 📊 GitHub Analytics
 
-[Shaked's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakedevgi&show_icons=true&theme=dark)
+[![Shaked's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakedevgi&show_icons=true&theme=dark)](https://github.com/Shakedevgi)
 
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakedevgi&layout=compact&theme=dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakedevgi&layout=compact&theme=dark)](https://github.com/Shakedevgi)
 
 ---
 
 ### 🤝 Connect With Me
-💼 [LinkedIn](www.linkedin.com/in/shaked-ivgi) | 📧 [Email](shakedoevgi@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/shaked-ivgi) | 📧 [Email](mailto:shakedoevgi@gmail.com)
