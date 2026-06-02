@@ -49,7 +49,9 @@ I am a Software Engineering student focused on building high-performance systems
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Shakedevgi&show_icons=true&theme=dark" alt="Shaked's GitHub Stats" height="150" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakedevgi&layout=compact&theme=dark" alt="Top Languages" height="150" />
+  
 </p>
 
 ---
