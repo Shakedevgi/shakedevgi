@@ -47,9 +47,9 @@ I am a Software Engineering student focused on building high-performance systems
 
 ### 📊 GitHub Analytics
 
-![Shaked's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakedevgi&show_icons=true&theme=dark)
+[Shaked's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakedevgi&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakedevgi&layout=compact&theme=dark)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakedevgi&layout=compact&theme=dark)
 
 ---
 
