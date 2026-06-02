@@ -45,11 +45,11 @@ I am a Software Engineering student focused on building high-performance systems
 
 ### 📂 Featured Projects
 
-*   💰 **[Smart Saver](https://github.com/Shakedevgi/smart-saver)** – A comprehensive personal finance and intelligent savings tracking application.
+*   💰 **[Smart Saver](https://github.com/Shakedevgi/smart-saver)** – AI-powered local knowledge companion and bookmark manager that automatically extracts, transcribes, and dynamically categorizes links and media from social networks.
 *   🚀 **[Workforce Scheduler v2](https://github.com/Shakedevgi/workforce-scheduler-v2)** – An advanced, full-stack automated workforce scheduling and shift management system.
 *   🔑 **[Registration System](https://github.com/Shakedevgi/registration-system)** – A secure and efficient full-stack user registration and server-side validation system.
 
 ---
 
 ### 🤝 Connect With Me
-💼 [LinkedIn](https://www.linkedin.com/in/shaked-ivgi) | 📧 [Email](mailto:shakedoevgi@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/shaked-ivgi) | 📧 [Email](mailto:shakedoevgi@gmail.com) : shakedoevgi@gmail.com
