@@ -4,7 +4,7 @@ I am a Software Engineering student focused on building high-performance systems
 
 - 🧠 **AI & Automation:** Building local agentic workflows and semantic search pipelines.
 - 📱 **Mobile & Web:** Designing responsive, native experiences with Swift/SwiftUI and modern full-stack web frameworks.
-- ⚙️ **Core Engineering:** Obsessed with clean code, data structures, and optimized algorithms.
+- ⚙️ **Core Engineering:** Clean code, data structures, and optimized algorithms.
 
 ---
 
